@@ -34,7 +34,7 @@ class object_writer:
 				make_directory_string+="/"
 			numpy.save(converted_location,{})
 		self.repo_loc=converted_location
-		self.repo=numpy.load(self.repo_loc).all()
+		self.repo=numpy.load(self.repo_loc, allow_pickle=True).all()
 
 	def save_repo(self):
 		numpy.save(self.repo_loc,self.repo)
@@ -270,7 +270,7 @@ class repo_tools:
 						pass
 		self.dataloc=self.data_location
 		self.dataset_name=dataset
-		self.dataset=numpy.load(self.data_location+'/'+dataset+'.npy').all()
+		self.dataset=numpy.load(self.data_location+'/'+dataset+'.npy', allow_pickle=True).all()
 		return dataset
 	# def navigate_data(self):
 	# 	print self.dataset
