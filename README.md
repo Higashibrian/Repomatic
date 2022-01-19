@@ -11,7 +11,7 @@ If you need to test a web form designed in salesforce that might have 5 inputs f
 with a different family, repomatic can handle that.
 
 Repomatic is designed to be used in an CLI instance of python or Jupyter notebook on an existing webdriver session. It's an aid for test creation 
-and web element identification so there was no need to make it an executable CLI tool, instead it has to be imported into an existing instance of python.
+and web element identification so there was no need to make it directly executable, instead it has to be imported into an existing live instance of python. Such as on the command line or within a Jupyter notebook.
 
 Usage is as follows:
 
