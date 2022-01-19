@@ -21,7 +21,7 @@ python
 >>>driver=webdriver.Chrome()<br>
 >>>wizard=repokeeper.repo_tools(driver)<br>
 <br>
-###this is a tool to help while you've got a selenium session open. At this point you would run the code or navigate to the page you're
+this is a tool to help while you've got a selenium session open. At this point you would run the code or navigate to the page you're
 writing the test for<br>
 <br>
 >>>wizard.page_wizard()<br>
