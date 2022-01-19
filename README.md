@@ -51,9 +51,14 @@ After a page has become active in the repokeeper use option 1 to add pair of web
 Option 2 Update Repo
 --------------
 
+text
+
 --------------
 Option 3 Update Data
 --------------
+
+text
+
 
 --------------
 Option 4 Iterate Objects
