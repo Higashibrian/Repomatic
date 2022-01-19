@@ -46,5 +46,4 @@ Select the option 4 here and the tool will ask you if you're trying to identify 
 
 The tool will then highlight each element it detects in red one at a time and prompt the user to answer if they'd like to update the repo with that element,
 
-If you select Yes, it will first ask you for a subgroup. This allows you to more precisely identify elements from different sections of a page. Subgroup
-would be used 
+If you select Yes, it will first ask you for a subgroup. This allows you to more precisely identify elements from different sections of a page.
