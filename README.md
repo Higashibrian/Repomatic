@@ -51,25 +51,38 @@ After a page has become active in the repokeeper use option 1 to add pair of web
 Option 2 Update Repo
 --------------
 
-text
+Updates webelement identifiers for an existing repo entry.
 
 --------------
 Option 3 Update Data
 --------------
 
-text
+
 
 
 --------------
 Option 4 Iterate Objects
 --------------
-
-
-
 Select the option 4 here and the tool will ask you if you're trying to identify input elements, select elements or checkboxes.
 
 The tool will then highlight each element it detects in red one at a time and prompt the user to answer if they'd like to update the repo with that element,
 
 If you select Yes, it will first ask you for a subgroup. This allows you to more precisely identify elements from different sections of a page.
 
+Option 5 define subgroup
+--------------
 
+Option 6 remove items
+--------------
+
+Option 7 List Repo Items
+--------------
+
+Option 8 Change Current Page
+--------------
+
+Option 9 Add dynamic input set
+--------------
+
+Option 10 define datavalues for a dynamic input
+--------------
