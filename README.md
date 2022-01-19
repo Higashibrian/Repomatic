@@ -48,15 +48,15 @@ Option 1 Add Object
 After a page has become active in the repokeeper use option 1 to add pair of web element and data value identifiers to memory.
 
 --------------
-Option 2 Add Object
+Option 2 Update Repo
 --------------
 
 --------------
-Option 3 Add Object
+Option 3 Update Data
 --------------
 
 --------------
-Option 4 Add Object
+Option 4 Iterate Objects
 --------------
 
 
