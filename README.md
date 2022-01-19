@@ -25,7 +25,7 @@ python
 writing the test for<br>
 <br>
 >>>wizard.page_wizard()<br>
->>>----------------------------<br>
+>>><br>
 >>>Current page= mypage<br>
 
 >>>list found<br>
