@@ -25,21 +25,21 @@ python
 writing the test for
 
 >>>wizard.page_wizard()<br>
-----------------------------<br>
-Current page= mypage<br>
+>>>----------------------------<br>
+>>>Current page= mypage<br>
 
-list found<br>
-1.) Add Object<br>
-2.) Update Repo<br>
-3.) Update Data<br>
-4.) Iterate Objects<br>
-5.) define subgroup<br>
-6.) remove items<br>
-7.) List Repo Items<br>
-8.) Change Current Page<br>
-9.) Add dynamic input set<br>
-10.) define datavalues for a dynamic input<br>
-Choose:<br>
+>>>list found<br>
+>>>1.) Add Object<br>
+>>>2.) Update Repo<br>
+>>>3.) Update Data<br>
+>>>4.) Iterate Objects<br>
+>>>5.) define subgroup<br>
+>>>6.) remove items<br>
+>>>7.) List Repo Items<br>
+>>>8.) Change Current Page<br>
+>>>9.) Add dynamic input set<br>
+>>>10.) define datavalues for a dynamic input<br>
+>>>Choose:<br>
 
 
 Select the option 4 here and the tool will ask you if you're trying to identify input elements, select elements or checkboxes.
