@@ -24,15 +24,8 @@ python
 writing the test for
 
 >>>wizard.page_wizard()
-
+----------------------------
 Current page= mypage
---------------------------
-----   Page: mypage   ----
---------------------------
--entered print menu-
----
-type: <class 'list'>
----
 
 list found
 1.) Add Object
@@ -46,6 +39,7 @@ list found
 9.) Add dynamic input set
 10.) define datavalues for a dynamic input
 Choose:
+----------------------------
 
 Select the option 4 here and the tool will ask you if you're trying to identify input elements, select elements or checkboxes.
 
