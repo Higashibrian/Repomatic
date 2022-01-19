@@ -39,24 +39,24 @@ writing the test for<br>
 >>>9.) Add dynamic input set<br>
 >>>10.) define datavalues for a dynamic input<br>
 >>>Choose:<br>
+
+
 --------------
-Option 1<br>
-Add Object
+Option 1 Add Object
 --------------
+
 After a page has become active in the repokeeper use option 1 to add pair of web element and data value identifiers to memory.
+
 --------------
-Option 2<br>
-Add Object
+Option 2 Add Object
 --------------
 
 --------------
-Option 3<br>
-Add Object
+Option 3 Add Object
 --------------
 
 --------------
-Option 4<br>
-Add Object
+Option 4 Add Object
 --------------
 
 
